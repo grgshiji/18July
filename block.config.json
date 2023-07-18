@@ -1,0 +1,42 @@
+{
+  "name": "18July",
+  "type": "package",
+  "source": {
+    "https": "https://github.com/grgshiji/18July.git",
+    "ssh": "git@github.com:grgshiji/18July.git",
+    "branch": "block_fn"
+  },
+  "dependencies": {
+    "listTodos": {
+      "directory": "listTodos"
+    },
+    "removeTodo": {
+      "directory": "removeTodo"
+    },
+    "addTodo": {
+      "directory": "addTodo"
+    },
+    "todoInput": {
+      "directory": "todoInput"
+    },
+    "todoItem": {
+      "directory": "todoItem"
+    },
+    "todoContainer": {
+      "directory": "todoContainer"
+    },
+    "Member_Fn_Block": {
+      "directory": "Member_Fn_Block"
+    },
+    "fn": {
+      "directory": "fn"
+    }
+  },
+  "blockId": "yMUtH5DnIFSrmgNya0kit",
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
